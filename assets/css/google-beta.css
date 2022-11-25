@@ -1,0 +1,42 @@
+.resim {
+  text-align: center;
+  margin-top: 100px;
+}
+div.container {
+  text-align: center;
+  background-color: gray;
+}
+div.container input {
+  width: 300px;
+}
+div.container p {
+  margin: 0;
+}
+.container2 {
+  background-color: aqua;
+  width: 100%;
+  text-align: center;
+}
+div.ilk {
+  box-sizing: border-box;
+  vertical-align: top;
+  width: 33%;
+  display: inline-block;
+}
+div.ilk p {
+  margin: 0;
+}
+div.iki {
+  width: 33%;
+  display: inline-block;
+}
+div.son {
+  display: inline-block;
+  width: 33%;
+}
+div.son p {
+  margin: 0;
+}
+footer p {
+  text-align: center;
+}
